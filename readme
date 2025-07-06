@@ -1,0 +1,7 @@
+//how to run
+
+
+
+//run check:
+
+ps aux | grep main.py
